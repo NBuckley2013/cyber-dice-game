@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/mainmenu">
+
+    <EditText android:id="@+id/edit_message"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_message" />
+
+    <Button
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:text="@string/new_user"
+        android:id="@+id/button4"
+        android:layout_marginTop="24dp"
+        android:onClick="userScreen"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/button7"
+        android:backgroundTint="@color/buttonPinkAlpha" />
+
+    <Button
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:text="@string/login"
+        android:id="@+id/button5"
+        android:onClick="logScreen"
+        android:layout_alignTop="@+id/button4"
+        android:layout_toEndOf="@+id/button4"
+        android:backgroundTint="@color/buttonPinkAlpha" />
+
+    <Button
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:text="@string/play"
+        android:id="@+id/button6"
+        android:onClick="playScreen"
+        android:layout_alignTop="@+id/button5"
+        android:layout_toEndOf="@+id/button5"
+        android:backgroundTint="@color/buttonPinkAlpha" />
+
+    <Button
+        android:layout_width="@dimen/box_size"
+        android:layout_height="@dimen/box_size"
+        android:text="@string/high"
+        android:id="@+id/button7"
+        android:onClick="highScreen"
+        android:layout_below="@+id/button6"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/buttonPinkAlpha" />
+
+    <TextView
+        android:text=""
+        android:textColor="#ffff00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playerOne"
+        android:textSize="24sp"
+        android:layout_alignTop="@+id/playerTwo"
+        android:layout_alignEnd="@+id/button6" />
+
+    <TextView
+        android:text=""
+        android:textColor="#ffff00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playerTwo"
+        android:textSize="24sp"
+        android:layout_marginBottom="37dp"
+        android:layout_alignBottom="@+id/edit_message"
+        android:layout_alignStart="@+id/button4" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bonus"
+        android:id="@+id/button"
+        android:backgroundTint="@color/buttonPinkAlpha"
+        android:layout_below="@+id/button4"
+        android:layout_alignEnd="@+id/button4"
+        android:layout_marginEnd="34dp" />
+
+</RelativeLayout>

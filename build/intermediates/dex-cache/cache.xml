@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_e06cce335f21f380050e36fd5a9a4629f3481a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_5d91703e2fab6881f320070c7e2b3474a327743d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neil\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_5b6002a7cb63e7806c17427e336066988ea2bbf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_96396fcf53655542196f2e0563ba83147de01308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_75208e19fdc2bf1f7726cb9b75c0703698b1d5fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\Users\Neil\Documents\sodev-cw2\dicegamefinal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_7313b82346bbeb2cf9ff6d736f1ba543722defa8.jar" />
+    </item>
+
+</items>

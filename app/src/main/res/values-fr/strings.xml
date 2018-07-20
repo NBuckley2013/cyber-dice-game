@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Jeu de Cyber Dice</string>
+    <string name="user">Nouvel utilisateur</string>
+    <string name="login">Identifier</string>
+    <string name="play">Jouer</string>
+    <string name="high">Scores élevés</string>
+    <string name="edit_message">Entrez un message</string>
+    <string name="button_send">Envoyer</string>
+    <string name="username">Nom dutilisateur:</string>
+    <string name="password">Mot de passe:</string>
+    <string name="create_user">Créer un utilisateur</string>
+    <string name="view_users">Voir les utilisateurs enregistrés</string>
+    <string name="delete_users">Supprimer les utilisateurs</string>
+    <string name="no_scores">Aucun score enregistré</string>
+    <string name="new_user">Nouvel utilisateur</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="roll">Obtenez Rouler!</string>
+    <string name="currentPlay">Joueur actuel: </string>
+    <string name="scores">Score actuel: </string>
+    <string name="intro">Dans le sombre avenir de 2018, les armes à feu ne fonctionnent que sur des rouleaux de dés! Cela a conduit à des cyber punks errant dans les rues avec leur D6 cherche à rouler un double contre quiconque rencontrer!" </string>
+    <string name="winnerWait">"En attendant un gagnant, ce pourrait être vous!"</string>
+    <string name="player">"Joueur "</string>
+    <string name="wins">" Victoires!"</string>
+    <string name="user_created">Créé par lutilisateur</string>
+    <string name="logged_in">Connecté</string>
+    <string name="log_out">Se déconnecter</string>
+    <string name="logged_out">Déconnecté</string>
+    <string name="player_one">Joueur 1</string>
+    <string name="player_two">Joueur 2</string>
+    <string name="bonus">Prime</string>
+    <string name="rot">\"Roulez-le en haut!\"</string>
+    <string name="usern">le usager</string>
+    <string name="score">Marquer des Points</string>
+    <string name="games">Des jeux</string>
+    <string name="win">Victoires!</string>
+</resources>

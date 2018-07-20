@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego de Dados Cibernéticos</string>
+    <string name="user">Nuevo usuario</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="play">Jugar</string>
+    <string name="high">Puntajes altos</string>
+    <string name="edit_message">Introduce un mensaje</string>
+    <string name="button_send">enviar</string>
+    <string name="username">Nombre de usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="create_user">Crear usuario</string>
+    <string name="view_users">Ver Usuarios Registrados</string>
+    <string name="delete_users">Eliminar usuarios</string>
+    <string name="no_scores">No hay puntuaciones registradas</string>
+    <string name="new_user">Nuevo usuario</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="roll">Consiga el balanceo!</string>
+    <string name="currentPlay">Jugador actual: </string>
+    <string name="scores">Puntuación actual: </string>
+    <string name="intro">En el sombrío futuro de 2018 las armas sólo funcionan en rollos de dados! Esto ha llevado a los ciber punks vagando por las calles con su D6 buscando dar un doble contra cualquier persona que conozcan!" </string>
+    <string name="winnerWait">"Esperando a un ganador, podría ser usted!"</string>
+    <string name="player">"Jugador "</string>
+    <string name="wins">" Gana!"</string>
+    <string name="user_created">Creado por el usuario</string>
+    <string name="logged_in">Conectado</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="logged_out">Desconectado</string>
+    <string name="player_one">Jugador 1</string>
+    <string name="player_two">Jugador 2</string>
+    <string name="bonus">Prima</string>
+    <string name="rot">\"¡Rueden en la parte superior!\"</string>
+    <string name="usern">Usuario</string>
+    <string name="score">Calificar</string>
+    <string name="games">Juegos</string>
+    <string name="win">Triunfar</string>
+</resources>

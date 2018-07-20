@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cyber Dice Game</string>
+    <string name="login">Login</string>
+    <string name="play">Play</string>
+    <string name="high">High Scores</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="create_user">Create User</string>
+    <string name="view_users">View Registered Users</string>
+    <string name="delete_users">Delete Users</string>
+    <string name="no_scores">No recorded scores...</string>
+    <string name="new_user">New User</string>
+    <string name="welcome">Welcome</string>
+    <string name="roll">Get Rolling!</string>
+    <string name="currentPlay">Current Player: </string>
+    <string name="scores">Current Score: </string>
+    <string name="intro">In the grim future of 2018 guns only work on dice rolls! This has lead to cyber punks roaming the streets with their D6 looking to roll a double against anyone they meet!" </string>
+    <string name="winnerWait">"Waiting for a winner .. it could be you!"</string>
+    <string name="player">"Player "</string>
+    <string name="wins">" Winning Roll!"</string>
+    <string name="user_created">User Created</string>
+    <string name="logged_in">Logged In</string>
+    <string name="log_out">Log Out</string>
+    <string name="logged_out">Logged Out</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+    <string name="bonus">Bonus</string>
+    <string name="rot">"Roll it on top!"</string>
+    <string name="usern">User</string>
+    <string name="score">Score</string>
+    <string name="games">Games</string>
+    <string name="win">Wins</string>
+</resources>

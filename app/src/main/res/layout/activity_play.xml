@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/rollontop"
+    android:id="@+id/activity_play"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="uk.ac.ljmu.cwk2.RollItOnTopPlay">
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="69dp"
+        android:id="@+id/winningPlayer"
+        android:textColor="#FF69B4"
+        />
+
+
+    <Button
+        android:text="@string/roll"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/rollButton"
+        android:layout_toEndOf="@+id/diceViewOne"
+        android:layout_above="@+id/winningPlayer"
+        android:background="@drawable/button"
+        android:padding="10dp"
+        android:textColor="#224422"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/cd1"
+        android:id="@+id/diceViewOne"
+        android:layout_marginTop="87dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="25dp" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/cdo1"
+        android:id="@+id/diceViewTwo"
+        android:layout_alignTop="@+id/diceViewOne"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="31dp" />
+
+    <TextView
+        android:text="滚动它在上面"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/glow_text"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
